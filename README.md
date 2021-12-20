@@ -19,6 +19,4 @@ To check the extension up and running in browsers(chrome and firefox) run `npm r
 `manifest.json` file from `extras` to `build` folder.
 
 For Google Chrome -> Select the `build` folder while testing the extension. \
-For Firefox -> Select the `manifest.json` from the `build` folder. \
-
-
+For Firefox -> Select the `manifest.json` from the `build` folder.
